@@ -16,3 +16,5 @@ to deletet a tag remotely:
 git push remote-name --delete tag-name
 
 ![Screenshot from 2023-11-27 13-56-32](https://github.com/jasminewalid/lab2/assets/152063571/230b9d85-c1ae-4eea-91ce-6abd03103235)
+
+![Screenshot from 2023-11-27 14-09-00](https://github.com/jasminewalid/lab2/assets/152063571/7b9bc9a6-3bff-4da7-b35d-dea3ebf96e10)
