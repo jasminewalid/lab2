@@ -25,3 +25,26 @@ you can use : git push remote-name --delete tag-name
 
 git rebase example
 ![git-rebase-cover](https://github.com/jasminewalid/lab2/assets/152063571/aa29e6a4-853c-47b1-a722-ea2c04eb51c1)
+
+What is a pull request in GIT ?
+A pull request, often abbreviated as PR, serves as a proposal to merge changes
+made in one branch of a repository into another, typically from a feature branch into
+the main branch. Pull requests are essential for facilitating code reviews,
+encouraging collaboration, and maintaining a clean, well-documented codebase.
+Pull Request Examples
+● Feature Additions: A developer adds a new feature, like password reset, and
+creates a pull request to merge it into the main branch after approval.
+● Bug Fixes: A separate branch is made to fix a discovered bug, and a pull
+request is created for team review and integration.
+● Code Refactoring: Developers refactor code for better performance or
+readability and submit a pull request for team approval.
+● Dependency Updates: After reviewing for compatibility and improvements, a
+pull request updates the project’s dependencies to the latest versions.
+How to create a pull request?
+If you have changes ready to submit for approval on GitKraken Client, you can
+drag-and-drop your feature branch onto the target branch of the main repo to trigger
+the “Create a pull request” option from the drop down menu.
+You can also initiate this process by clicking the green + icon on the Pull
+Requests section on the left panel.
+To complete the process of creating your PR, simply hit Create pull request at the
+bottom of the Git pull request template
